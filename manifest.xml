@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<package uuid="naowecare-874013">
+<package uuid="naowecare-2112ac">
  <names>
   <name lang="en_US">NaoWeCare</name>
   <name lang="it_IT">Pachino Express - Nao We Care</name>
@@ -11,7 +11,7 @@
   <language>it_IT</language>
  </descriptionLanguages>
  <contents>
-  <behaviorContent path="Ultima Misurazione">
+  <behaviorContent path="NaoWeCare">
    <nature>interactive</nature>
    <permissions/>
   </behaviorContent>
