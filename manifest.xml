@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<package uuid="naowecare-874013">
+ <names>
+  <name lang="en_US">NaoWeCare</name>
+  <name lang="it_IT">Pachino Express - Nao We Care</name>
+ </names>
+ <supportedLanguages>
+  <language>it_IT</language>
+ </supportedLanguages>
+ <descriptionLanguages>
+  <language>it_IT</language>
+ </descriptionLanguages>
+ <contents>
+  <behaviorContent path="Ultima Misurazione">
+   <nature>interactive</nature>
+   <permissions/>
+  </behaviorContent>
+ </contents>
+</package>
