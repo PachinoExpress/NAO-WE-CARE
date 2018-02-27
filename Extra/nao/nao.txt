@@ -1,5 +1,0 @@
-Array
-(
-    [cmd] => ultima-misurazione
-    [id_paziente] => 2
-)
